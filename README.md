@@ -9,17 +9,7 @@
 
 Human life is very precious and consists of very complicated structure and millions of functions. The health sector should provide the best medical facilities to a
 common person. As Pakistan is a developing nation in the field of health sciences and developing a large scale of hospitals but facing a large number of problems
-in inter-structure facilities. The basic working of administration in various hospitals of Pakistan is still on paper which makes the process a lot slower as compared
-to the hospitals in Europe because there the computers have been put in to assist the hospital personnel in their work.
-
-The concept of automation in the management of hospitals should now be implemented in Pakistan. Our project is aimed to achieve and realize the above concept i.e.
-automated administration of Hospital. Hospital management system (HMS) aims to provide the benefits of streamlined operations, enhanced administration
-and control, superior patient care, pharmacy, medical labs, and strict cost control. Hospital management app implements hospital management system with a desktop
-application Interface that will manage the data related to any particular hospital.
-
-# Developer Remarks
-The project was not completed due to the lack of developers. If you want to contribute to health sector by making this application closer to its orginal purpose than
-you are very much welcome to join us. Many a little makes a mickle, so contribute as much as possible.
+in inter-structure facilities. 
 
 <br>
 
