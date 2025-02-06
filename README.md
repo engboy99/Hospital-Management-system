@@ -1,4 +1,4 @@
-<h1 align="center">Hospital-Management-Desktop-Application (Incomplete)</h1>
+<h1 align="center">Hospital-Management-Desktop-Application </h1>
 <h3 align="center">A C# desktop application that implements hospital management system that will manage the record of doctors, patients etc.</h3>
 
 ---
